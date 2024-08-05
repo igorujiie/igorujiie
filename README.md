@@ -31,10 +31,13 @@
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm-ide&logoColor=2C2255)
   ![Notepad++](https://img.shields.io/badge/-Notepad++-333333?style=flat&logo=Notepad%2B%2B)
 
-<br/>
+<div>
+<a href="https://github.com/igorujiie">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorujiie-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=igorujiie-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-
-<br/>
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
