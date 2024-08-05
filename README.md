@@ -3,7 +3,9 @@
 
 <h3>&nbsp;Sobre mim: </h3>
 
-- 🎓 &nbsp; Graduated on <a href="https://www.ifsp.edu.br/">IFSP</a>.
+Sou um desenvolvedor back-end com foco principal em Java e cloud AWS. Minha experiência inclui também trabalho com Python e Terraform, o que me permite criar soluções robustas e escaláveis. Sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo e atualmente trabalho em uma empresa de consultoria, prestando serviços para empresas do setor financeiro.
+
+Estou direcionando meus esforços para me aprofundar ainda mais no desenvolvimento backend com Java e cloud, com um interesse especial em integrar essas tecnologias com IA generativa. Estou sempre em busca de novos desafios que me permitam crescer e inovar na área de tecnologia.
 
 
 <h3> :rocket: &nbsp;My skills: </h3>
