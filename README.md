@@ -39,8 +39,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorujiie&layout=compact&langs_count=16&theme=dracula"/>
 </a>
 
-![Snake animation](https://github.com/igorujiie/igorujiie/blob/output/github-contribution-grid-snake.svg)
-
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: Igor Kazuhiko Ujiie](https://img.shields.io/badge/-IgorUjiie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/igor-kazuhiko-ujiie-9218a4201/)
