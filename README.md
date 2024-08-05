@@ -12,7 +12,7 @@
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python).
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 **Utilities**
 
